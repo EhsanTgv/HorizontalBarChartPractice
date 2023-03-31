@@ -37,5 +37,5 @@ func largestSales() -> Double {
 }
 
 func randomNumber() -> Double {
-    return Double.random(in: 0...4000)
+    return Double.random(in: 100...4000)
 }
